@@ -4,7 +4,7 @@ Press presentation mode which is located at the third of the bottom of the left 
 # Solution of malfunction
 Some computer may not work properly at first due to the patch `spat5.conv~ @channels 2`.
 
-In this case, please check if `spat5.conv~ @channels 2` is still in the patch. It is located on the centre of the patch, between `8. Reverb` and `Resonance`. If not, close Grandomisor and reopen. Then `spat5.conv~ @channels 2` will reappear.
+In this case, please check if `spat5.conv~ @channels 2` is still in the patch. It is located on the centre of the patch, between `8. Reverb` and `Resonance`. If not, close Grandomiser and reopen. Then `spat5.conv~ @channels 2` will reappear.
 
 If you didn't install `spat5.conv~ @channels 2`, please install it from the link (https://forum.ircam.fr/projects/detail/spat/) and run the patch again.
 
