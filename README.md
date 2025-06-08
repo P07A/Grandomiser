@@ -1,4 +1,4 @@
-# How to play the synthesiser
+# How to play Grandomiser
 Press presentation mode which is located at the third of the bottom of the left corner.
 
 # Solution of malfunction
